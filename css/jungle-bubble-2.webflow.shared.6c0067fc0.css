@@ -2105,7 +2105,7 @@ textarea.w-input, textarea.w-select {
 
 .w-checkbox-input--inputType-custom.w--redirected-checked {
   background-color: #3898ec;
-  background-image: url("../images/custom-checkbox-checkmark.589d534424.svg");
+  background-image: url("images/custom-checkbox-checkmark.589d534424.svg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2508,7 +2508,7 @@ strong {
 .hero-slide {
   opacity: .78;
   object-fit: cover;
-  background-image: url("../images/edited-75.jpg");
+  background-image: url("images/edited-75.jpg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -5588,7 +5588,7 @@ strong {
 .div-block-33 {
   filter: grayscale();
   background-color: #f8f0cd;
-  background-image: url("../images/web-248.jpg");
+  background-image: url("images/web-248.jpg");
   background-position: 100% 100%;
   background-size: cover;
   height: 400px;
@@ -5714,7 +5714,7 @@ strong {
 }
 
 .div-block-38 {
-  background-image: url("../images/beanroots-20-1-.gif");
+  background-image: url("images/beanroots-20-1-.gif");
   background-position: 50%;
   background-size: cover;
   height: 290px;
@@ -6203,7 +6203,7 @@ strong {
 }
 
 .section-2047 {
-  background-image: url("../images/20221216-ido_6041.jpg");
+  background-image: url("images/20221216-ido_6041.jpg");
   background-position: 50%;
   background-size: cover;
   flex-direction: column;
@@ -6256,13 +6256,13 @@ strong {
 }
 
 .icon-1x1-xsmall.arrow {
-  background-image: url("../images/chevron-20left.svg");
+  background-image: url("images/chevron-20left.svg");
   background-position: 0 0;
   background-size: auto;
 }
 
 .icon-1x1-xsmall.email {
-  background-image: url("../images/email.svg");
+  background-image: url("images/email.svg");
   background-position: 0 0;
   background-size: auto;
 }
@@ -6294,18 +6294,18 @@ strong {
 }
 
 .padding-global.gray.workshop-bg {
-  background-image: url("../images/background-image.svg"), linear-gradient(to bottom, var(--10-trans-black), var(--10-trans-black));
+  background-image: url("images/background-image.svg"), linear-gradient(to bottom, var(--10-trans-black), var(--10-trans-black));
   background-position: 0 0, 0 0;
   background-size: auto, auto;
 }
 
 .padding-global.workshop-bg {
-  background-image: linear-gradient(to bottom, var(--20-trans-black), var(--20-trans-black)), url("../images/workshop.jpg");
+  background-image: linear-gradient(to bottom, var(--20-trans-black), var(--20-trans-black)), url("images/workshop.jpg");
   color: #fff;
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
-  background-image: linear-gradient(to bottom, var(--black-40-trans), var(--black-40-trans)), url("../images/workshop.jpg");
+  background-image: linear-gradient(to bottom, var(--black-40-trans), var(--black-40-trans)), url("images/workshop.jpg");
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -7926,7 +7926,7 @@ strong {
 }
 
 .product-gallery-image {
-  background-image: url("../images/2.jpg");
+  background-image: url("images/2.jpg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -7935,26 +7935,26 @@ strong {
 }
 
 .product-gallery-image.special {
-  background-image: url("../images/tabs-special.jpg");
+  background-image: url("images/tabs-special.jpg");
   background-position: 50% 62%;
   background-size: cover;
 }
 
 .product-gallery-image._10 {
-  background-image: url("../images/tabs-10.jpg");
+  background-image: url("images/tabs-10.jpg");
 }
 
 .product-gallery-image._34 {
-  background-image: url("../images/tabs-34.jpg");
+  background-image: url("images/tabs-34.jpg");
 }
 
 .product-gallery-image._54 {
-  background-image: url("../images/tabs54.jpg");
+  background-image: url("images/tabs54.jpg");
   background-position: 50% 25%;
 }
 
 .product-gallery-image.wide {
-  background-image: url("../images/tabs-wide.jpg");
+  background-image: url("images/tabs-wide.jpg");
 }
 
 .product-gallery-seperator {
@@ -8047,7 +8047,7 @@ strong {
 
 .blog-card-img {
   object-fit: cover;
-  background-image: url("../images/background-image.svg");
+  background-image: url("images/background-image.svg");
   background-position: 0 0;
   background-size: auto;
   width: 100%;
@@ -8248,7 +8248,7 @@ strong {
 }
 
 .product-img {
-  background-image: url("../images/background-image.svg");
+  background-image: url("images/background-image.svg");
   background-position: 0 0;
   background-size: cover;
   flex: 1;
@@ -8261,13 +8261,13 @@ strong {
 }
 
 .product-img.gray.workshop-bg {
-  background-image: url("../images/background-image.svg"), linear-gradient(to bottom, var(--10-trans-black), var(--10-trans-black));
+  background-image: url("images/background-image.svg"), linear-gradient(to bottom, var(--10-trans-black), var(--10-trans-black));
   background-position: 0 0, 0 0;
   background-size: auto, auto;
 }
 
 .product-img.workshop-bg {
-  background-image: linear-gradient(to bottom, var(--20-trans-black), var(--20-trans-black)), url("../images/workshop.jpg");
+  background-image: linear-gradient(to bottom, var(--20-trans-black), var(--20-trans-black)), url("images/workshop.jpg");
   color: var(--white);
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
@@ -8419,7 +8419,7 @@ strong {
 }
 
 .gallery-feature {
-  background-image: url("../images/check-20circle.svg");
+  background-image: url("images/check-20circle.svg");
   background-position: 0%;
   background-repeat: no-repeat;
   background-size: 20px;
@@ -8682,7 +8682,7 @@ strong {
 }
 
 .terrarium-workshop-option-card-image {
-  background-image: url("../images/img_9856.jpg");
+  background-image: url("images/img_9856.jpg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -8690,17 +8690,17 @@ strong {
 }
 
 .terrarium-workshop-option-card-image._2000ml {
-  background-image: url("../images/2000ml.jpg");
+  background-image: url("images/2000ml.jpg");
   background-position: 50% 55%;
   background-size: auto 138%;
 }
 
 .terrarium-workshop-option-card-image._3 {
-  background-image: url("../images/271132328_462052941963276_609684710131969152_n.jpeg");
+  background-image: url("images/271132328_462052941963276_609684710131969152_n.jpeg");
 }
 
 .terrarium-workshop-option-card-image.demijean {
-  background-image: url("../images/tabs-10.jpg");
+  background-image: url("images/tabs-10.jpg");
   background-position: 50% 42%;
   background-size: auto 125%;
 }
@@ -8979,7 +8979,7 @@ strong {
 .blog44_image {
   aspect-ratio: 3 / 2;
   object-fit: cover;
-  background-image: url("../images/background-image.svg");
+  background-image: url("images/background-image.svg");
   background-position: 0 0;
   background-size: auto;
   width: 100%;
@@ -9224,7 +9224,7 @@ strong {
 }
 
 .section-2048 {
-  background-image: url("../images/background-image.svg");
+  background-image: url("images/background-image.svg");
   background-position: 0 0;
   background-size: auto;
   height: 100vh;
@@ -9241,7 +9241,7 @@ strong {
 
 .padding-global-copy {
   background-color: var(--black);
-  background-image: linear-gradient(#000000b3, #000000b3), url("../images/terrarium-229.jpg");
+  background-image: linear-gradient(#000000b3, #000000b3), url("images/terrarium-229.jpg");
   background-position: 0 0, 50%;
   background-size: auto, cover;
   padding-left: 5%;
@@ -9253,18 +9253,18 @@ strong {
 }
 
 .padding-global-copy.gray.workshop-bg {
-  background-image: url("../images/background-image.svg"), linear-gradient(to bottom, var(--10-trans-black), var(--10-trans-black));
+  background-image: url("images/background-image.svg"), linear-gradient(to bottom, var(--10-trans-black), var(--10-trans-black));
   background-position: 0 0, 0 0;
   background-size: auto, auto;
 }
 
 .padding-global-copy.workshop-bg {
-  background-image: linear-gradient(to bottom, var(--20-trans-black), var(--20-trans-black)), url("../images/workshop.jpg");
+  background-image: linear-gradient(to bottom, var(--20-trans-black), var(--20-trans-black)), url("images/workshop.jpg");
   color: #fff;
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
-  background-image: linear-gradient(to bottom, var(--black-40-trans), var(--black-40-trans)), url("../images/workshop.jpg");
+  background-image: linear-gradient(to bottom, var(--black-40-trans), var(--black-40-trans)), url("images/workshop.jpg");
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -10201,8 +10201,8 @@ strong {
   }
 
   .padding-global.workshop-bg {
-    background-image: linear-gradient(to bottom, var(--black-30-trans), var(--black-30-trans)), url("../images/workshop.jpg");
-    background-image: linear-gradient(#0000004d, #0000004d), url("../images/workshop.jpg");
+    background-image: linear-gradient(to bottom, var(--black-30-trans), var(--black-30-trans)), url("images/workshop.jpg");
+    background-image: linear-gradient(#0000004d, #0000004d), url("images/workshop.jpg");
     background-position: 0 0, 50%;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover;
@@ -10747,7 +10747,7 @@ strong {
   }
 
   .product-img.workshop-bg {
-    background-image: linear-gradient(to bottom, var(--black-30-trans), var(--black-30-trans)), url("../images/workshop.jpg");
+    background-image: linear-gradient(to bottom, var(--black-30-trans), var(--black-30-trans)), url("images/workshop.jpg");
     background-position: 0 0, 50%;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover;
@@ -10891,8 +10891,8 @@ strong {
   }
 
   .padding-global-copy.workshop-bg {
-    background-image: linear-gradient(to bottom, var(--black-30-trans), var(--black-30-trans)), url("../images/workshop.jpg");
-    background-image: linear-gradient(#0000004d, #0000004d), url("../images/workshop.jpg");
+    background-image: linear-gradient(to bottom, var(--black-30-trans), var(--black-30-trans)), url("images/workshop.jpg");
+    background-image: linear-gradient(#0000004d, #0000004d), url("images/workshop.jpg");
     background-position: 0 0, 50%;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover;
@@ -13743,9 +13743,9 @@ strong {
   }
 
   .padding-global.workshop-bg {
-    background-image: linear-gradient(to bottom, null, null), url("../images/workshop.jpg");
+    background-image: linear-gradient(to bottom, null, null), url("images/workshop.jpg");
     background-position: 0 0, 30%;
-    background-image: linear-gradient(to bottom, null, null), url("../images/workshop.jpg");
+    background-image: linear-gradient(to bottom, null, null), url("images/workshop.jpg");
     background-position: 0 0, 30%;
   }
 
@@ -14002,7 +14002,7 @@ strong {
   }
 
   .product-img.workshop-bg {
-    background-image: linear-gradient(to bottom, null, null), url("../images/workshop.jpg");
+    background-image: linear-gradient(to bottom, null, null), url("images/workshop.jpg");
     background-position: 0 0, 30%;
   }
 
@@ -14105,9 +14105,9 @@ strong {
   }
 
   .padding-global-copy.workshop-bg {
-    background-image: linear-gradient(to bottom, null, null), url("../images/workshop.jpg");
+    background-image: linear-gradient(to bottom, null, null), url("images/workshop.jpg");
     background-position: 0 0, 30%;
-    background-image: linear-gradient(to bottom, null, null), url("../images/workshop.jpg");
+    background-image: linear-gradient(to bottom, null, null), url("images/workshop.jpg");
     background-position: 0 0, 30%;
   }
 
