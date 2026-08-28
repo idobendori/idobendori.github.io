@@ -37,15 +37,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M20.5686 4.77345C21.5163 5.02692 22.2555 5.76903 22.5118 6.71673C23.1821 9.42042 23.1385 14.5321 22.5259 17.278C22.2724 18.2257 21.5303 18.965 20.5826 19.2213C17.9071 19.8831 5.92356 19.8015 3.40294 19.2213C2.45524 18.9678 1.71595 18.2257 1.45966 17.278C0.827391 14.7011 0.871044 9.25144 1.44558 6.73081C1.69905 5.78311 2.44116 5.04382 3.38886 4.78753C6.96561 4.0412 19.2956 4.282 20.5686 4.77345ZM9.86682 8.70227L15.6122 11.9974L9.86682 15.2925V8.70227Z" fill="CurrentColor"/>
 </svg></div><div>Youtube</div></a></div></div></div></div></div><div class="line-divider"></div><div class="padding-top padding-medium"><div class="footer1_bottom-wrapper"><div class="footer1_credit-text">© כל הזכויות שמורות, עידו בן דורי, Jungle Bubble</div><div class="w-layout-grid footer1_legal-list"><a href="#" class="footer1_legal-link">Privacy Policy</a><a href="#" class="footer1_legal-link">Terms of Service</a><a href="#" class="footer1_legal-link">Cookies Settings</a></div></div></div></div></div></div></figure><script src="js/jquery.js" type="text/javascript"></script><script src="js/webflow.schunk.36b8fb49256177c8.js" type="text/javascript"></script><script src="js/webflow.schunk.420f2b49f7464535.js" type="text/javascript"></script><script src="js/webflow.e8d55346.f1778f3d9c9d8a43.js" type="text/javascript"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js" ></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js" ></script><script>
+// ==== WORKSHOP STATUS ====
+// Set to false once workshops reopen for booking - that's the only change
+// needed to bring this page back to normal (no popup, form works as-is).
+var WORKSHOP_CLOSED = true;
 $(document).ready(function(){
-if (!Cookies.get('alert')) { setTimeout(function(){
-$('.popup-overlay').css('display','flex');
-Cookies.set('alert', true, { expires: 1 });
-}, 10000);
-}
+  if (WORKSHOP_CLOSED) {
+    setTimeout(function(){
+      $('.popup-overlay').css('display','flex');
+    }, 3000);
+  }
 });
-// Documentation at https://github.com/js-cookie/js-cookie
-</script><script>
-  window.location.href = "diyterrarium.html";
 </script>
 </body></html>
