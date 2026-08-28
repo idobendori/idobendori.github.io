@@ -3025,7 +3025,7 @@ strong {
 .about-photo-block {
   z-index: 0;
   opacity: .21;
-  background-image: url("https://cdn.prod.website-files.com/60acf1e0d28b3f733c3be205/60d06751f9061aac27f3e008_AC957BDA-0D1E-463A-B386-6F50C27E107C.JPG");
+  background-image: url("images/60d06751f9061aac27f3e008_AC957BDA-0D1E-463A-B386-6F50C27E107C.JPG");
   background-position: 100%;
   background-repeat: repeat;
   background-size: cover;
@@ -8706,7 +8706,7 @@ strong {
 }
 
 .workshop-image {
-  background-image: url("https://cdn.prod.website-files.com/60acf1e0d28b3f733c3be205/67a8ac79b7b7e3d82b75b055_IMG_9803.JPG");
+  background-image: url("images/67a8ac79b7b7e3d82b75b055_IMG_9803.JPG");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
