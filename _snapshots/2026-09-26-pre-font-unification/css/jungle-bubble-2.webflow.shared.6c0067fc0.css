@@ -46,7 +46,7 @@ dfn {
   font-style: italic;
 }
 
-h1 {font-family:'Bona Nova',Georgia,serif;
+h1 {
   margin: .67em 0;
   font-size: 2em;
 }
@@ -381,13 +381,13 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 }
 
-h1 {font-family:'Bona Nova',Georgia,serif;
+h1 {
   margin-top: 20px;
   font-size: 38px;
   line-height: 44px;
 }
 
-h2 {font-family:'Bona Nova',Georgia,serif;
+h2 {
   margin-top: 20px;
   font-size: 32px;
   line-height: 36px;
@@ -2151,12 +2151,12 @@ body {
   direction: rtl;
   color: #333;
   text-align: right;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 16px;
   line-height: 1.6;
 }
 
-h1 {font-family:'Bona Nova',Georgia,serif;
+h1 {
   transform-origin: 0 0;
   direction: rtl;
   margin-top: 20px;
@@ -2166,7 +2166,7 @@ h1 {font-family:'Bona Nova',Georgia,serif;
   line-height: 1.2;
 }
 
-h2 {font-family:'Bona Nova',Georgia,serif;
+h2 {
   margin-top: 20px;
   margin-bottom: 10px;
   font-size: 3rem;
@@ -2291,7 +2291,7 @@ strong {
 
 .text-block {
   z-index: 2;
-  font-family: 'Bona Nova', Georgia, serif;
+  font-family: Bellefair, sans-serif;
   font-size: 30px;
   position: relative;
 }
@@ -2378,7 +2378,7 @@ strong {
   background-color: #fff;
   margin-top: 25px;
   padding: 5px 30px;
-  font-family: 'Bona Nova', Georgia, serif;
+  font-family: Bellefair, sans-serif;
   font-weight: 700;
   transition: box-shadow .4s, transform .4s;
   position: absolute;
@@ -2448,7 +2448,7 @@ strong {
   align-items: center;
   padding-left: 0;
   padding-right: 0;
-  font-family: 'Bona Nova', Georgia, serif;
+  font-family: Bellefair, sans-serif;
   font-size: 22px;
   display: flex;
   position: static;
@@ -2475,7 +2475,7 @@ strong {
   padding-top: 3vh;
   padding-bottom: 3vh;
   padding-right: 0;
-  font-family: 'Bona Nova', Georgia, serif;
+  font-family: Bellefair, sans-serif;
   font-size: 30px;
   display: inline-block;
   position: relative;
@@ -2548,7 +2548,7 @@ strong {
   direction: rtl;
   margin-bottom: 0;
   margin-right: 40px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 14px;
   line-height: 18px;
 }
@@ -2659,7 +2659,7 @@ strong {
   color: #fff;
   margin-top: 17px;
   margin-left: -57px;
-  font-family: 'Bona Nova', Georgia, serif;
+  font-family: Bellefair, sans-serif;
   font-size: 24px;
   font-weight: 700;
 }
@@ -2691,7 +2691,7 @@ strong {
   text-align: center;
   margin-top: 0;
   margin-bottom: 0;
-  font-family: 'Bona Nova', Georgia, serif;
+  font-family: Bellefair, sans-serif;
   font-size: 36px;
   font-weight: 400;
 }
@@ -2853,7 +2853,7 @@ strong {
 .black-link {
   color: #000;
   border-bottom: 1px solid #0000004d;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 16px;
   font-weight: 200;
   text-decoration: none;
@@ -2881,7 +2881,7 @@ strong {
   background-clip: border-box;
   margin-top: 0;
   margin-bottom: 0;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 35px;
   font-style: normal;
   font-weight: 200;
@@ -2896,7 +2896,7 @@ strong {
   align-items: center;
   width: 750px;
   height: 100%;
-  font-family: 'Bona Nova', Georgia, serif;
+  font-family: Bellefair, sans-serif;
   display: flex;
 }
 
@@ -2940,7 +2940,7 @@ strong {
   border-bottom-style: none;
   margin-top: 0;
   padding: 15px 30px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-weight: 200;
   transition: border-color .2s;
 }
@@ -2959,7 +2959,7 @@ strong {
   border-bottom-color: #fff;
   align-self: flex-end;
   margin-top: 0;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-weight: 200;
 }
 
@@ -3076,13 +3076,13 @@ strong {
   padding-top: 20px;
   padding-left: 30px;
   padding-right: 30px;
-  font-family: 'Bona Nova', Georgia, serif;
+  font-family: Bellefair, sans-serif;
   font-size: 19px;
   line-height: 1.45;
 }
 
 .heading-2 {
-  font-family: 'Bona Nova', Georgia, serif;
+  font-family: Bellefair, sans-serif;
   font-size: 88px;
   font-weight: 400;
 }
@@ -3167,11 +3167,11 @@ strong {
 
 .list-item {
   text-align: justify;
-  font-family: 'Bona Nova', Georgia, serif;
+  font-family: Bellefair, sans-serif;
 }
 
 .list-item-2 {
-  font-family: 'Bona Nova', Georgia, serif;
+  font-family: Bellefair, sans-serif;
 }
 
 .section {
@@ -3195,7 +3195,7 @@ strong {
   background-color: #5a5a5a63;
   width: 100%;
   margin-top: 0;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 22px;
 }
 
@@ -3212,13 +3212,13 @@ strong {
 .text-field-2 {
   text-align: center;
   width: 100%;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 14px;
 }
 
 .text-field-3, .text-field-4 {
   text-align: center;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 14px;
 }
 
@@ -3235,7 +3235,7 @@ strong {
   margin-top: 0;
   margin-bottom: 0;
   padding: 10px 25px 10px 20px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 16px;
   text-decoration: none;
   display: flex;
@@ -3255,7 +3255,7 @@ strong {
 
 .text-block-5 {
   text-align: center;
-  font-family: 'Bona Nova', Georgia, serif;
+  font-family: Bellefair, sans-serif;
   font-size: 20px;
   font-weight: 400;
 }
@@ -3267,7 +3267,7 @@ strong {
   margin-bottom: 0;
   padding-top: 0;
   padding-right: 0;
-  font-family: 'Bona Nova', Georgia, serif;
+  font-family: Bellefair, sans-serif;
   font-size: 20px;
   position: relative;
 }
@@ -3276,14 +3276,14 @@ strong {
   direction: rtl;
   text-align: center;
   margin-bottom: 0;
-  font-family: 'Bona Nova', Georgia, serif;
+  font-family: Bellefair, sans-serif;
   font-size: 20px;
 }
 
 .heading-4 {
   margin-top: 0;
   margin-bottom: 0;
-  font-family: 'Bona Nova', Georgia, serif;
+  font-family: Bellefair, sans-serif;
   font-size: 20px;
 }
 
@@ -3303,7 +3303,7 @@ strong {
   text-align: justify;
   align-self: center;
   max-width: 40%;
-  font-family: 'Bona Nova', Georgia, serif;
+  font-family: Bellefair, sans-serif;
   font-size: 20px;
 }
 
@@ -3329,7 +3329,7 @@ strong {
   width: 490px;
   margin-left: 0;
   margin-right: 0;
-  font-family: 'Bona Nova', Georgia, serif;
+  font-family: Bellefair, sans-serif;
   font-size: 20px;
   position: absolute;
   overflow: visible;
@@ -3492,7 +3492,7 @@ strong {
   margin-top: 0;
   margin-bottom: 40px;
   padding-bottom: 0;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 26px;
   font-style: normal;
   font-weight: 300;
@@ -3511,7 +3511,7 @@ strong {
   margin-bottom: 20px;
   padding-left: 0;
   padding-right: 0;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 20px;
   line-height: 1.3;
 }
@@ -3560,7 +3560,7 @@ strong {
   margin-top: 36px;
   padding-left: 0;
   padding-right: 0;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 14px;
   line-height: 2;
   list-style-type: square;
@@ -3602,7 +3602,7 @@ strong {
   margin-bottom: 0;
   padding-left: 40px;
   padding-right: 40px;
-  font-family: 'Bona Nova', Georgia, serif;
+  font-family: Bellefair, sans-serif;
   font-size: 19px;
   line-height: 1.3;
 }
@@ -3620,7 +3620,7 @@ strong {
   letter-spacing: 1px;
   justify-content: center;
   margin-top: 0;
-  font-family: 'Bona Nova', Georgia, serif;
+  font-family: Bellefair, sans-serif;
   font-size: 27px;
   font-weight: 400;
   line-height: 1.4;
@@ -3659,7 +3659,7 @@ strong {
   margin-bottom: 0;
   padding-top: 20px;
   padding-bottom: 20px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 28px;
   font-weight: 800;
   line-height: 1;
@@ -3672,7 +3672,7 @@ strong {
   direction: rtl;
   margin-top: 0;
   margin-bottom: 0;
-  font-family: 'Bona Nova', Georgia, serif;
+  font-family: Bellefair, sans-serif;
   font-size: 60px;
   font-weight: 400;
 }
@@ -3688,7 +3688,7 @@ strong {
   direction: rtl;
   margin-top: 30px;
   margin-bottom: 0;
-  font-family: 'Bona Nova', Georgia, serif;
+  font-family: Bellefair, sans-serif;
   font-size: 74px;
   font-weight: 400;
 }
@@ -3744,7 +3744,7 @@ strong {
   background-color: #000;
   padding-top: 6px;
   padding-right: 30px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 14px;
   display: block;
 }
@@ -3908,7 +3908,7 @@ strong {
 .link-2-copy {
   color: #000;
   margin-top: 15px;
-  font-family: 'Bona Nova', Georgia, serif;
+  font-family: Bellefair, sans-serif;
   font-size: 28px;
 }
 
@@ -4114,7 +4114,7 @@ strong {
   margin-bottom: 20px;
   padding-top: 10px;
   padding-bottom: 10px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 28px;
   font-weight: 200;
 }
@@ -4144,7 +4144,7 @@ strong {
 .text-block-9, .text-block-10 {
   color: #fff;
   text-align: center;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 22px;
 }
 
@@ -4153,7 +4153,7 @@ strong {
   text-align: center;
   margin-bottom: 20px;
   padding: 20px 40px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 16px;
 }
 
@@ -4193,7 +4193,7 @@ strong {
   padding-top: 3vh;
   padding-bottom: 3vh;
   padding-right: 0;
-  font-family: 'Bona Nova', Georgia, serif;
+  font-family: Bellefair, sans-serif;
   font-size: 30px;
   display: inline-block;
   position: relative;
@@ -4227,7 +4227,7 @@ strong {
   color: #fff;
   margin-bottom: 60px;
   padding-bottom: 0;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 20px;
   font-weight: 200;
   text-decoration: none;
@@ -4330,7 +4330,7 @@ strong {
   color: #fff;
   margin-top: 17px;
   margin-left: -57px;
-  font-family: 'Bona Nova', Georgia, serif;
+  font-family: Bellefair, sans-serif;
   font-size: 24px;
   font-weight: 700;
 }
@@ -4362,7 +4362,7 @@ strong {
   direction: rtl;
   color: #000;
   text-align: center;
-  font-family: 'Bona Nova', Georgia, serif;
+  font-family: Bellefair, sans-serif;
   font-size: 18px;
   line-height: 1;
   position: relative;
@@ -4391,7 +4391,7 @@ strong {
   padding-top: 30px;
   padding-bottom: 30px;
   padding-left: 25px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 18px;
   line-height: 1;
   position: relative;
@@ -4418,7 +4418,7 @@ strong {
 
 .text-block-11 {
   margin-right: 20px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 14px;
   font-weight: 400;
 }
@@ -4488,7 +4488,7 @@ strong {
   text-indent: 0;
   margin-bottom: 0;
   padding-bottom: 36px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 24px;
   text-decoration: overline;
 }
@@ -4519,7 +4519,7 @@ strong {
   margin-left: 0;
   margin-right: 0;
   padding: 10px 80px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 200;
@@ -4601,7 +4601,7 @@ strong {
   text-indent: 0;
   margin-bottom: 28px;
   padding-bottom: 0;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 24px;
   text-decoration: overline;
 }
@@ -4678,7 +4678,7 @@ strong {
   align-items: flex-start;
   margin-top: 15vw;
   margin-bottom: 0;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 3vw;
   font-weight: 300;
   display: block;
@@ -4758,7 +4758,7 @@ strong {
   margin-top: 20px;
   margin-right: -15px;
   padding-right: 0;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 500;
@@ -4794,7 +4794,7 @@ strong {
   width: 650px;
   padding-top: 30px;
   padding-bottom: 15px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 16px;
 }
 
@@ -4804,7 +4804,7 @@ strong {
   margin-top: 89px;
   margin-bottom: 0;
   padding-top: 0;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 30px;
   font-weight: 200;
   position: static;
@@ -4821,7 +4821,7 @@ strong {
   direction: rtl;
   color: #fff;
   margin-top: 0;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 24px;
   text-decoration: underline;
   position: absolute;
@@ -4892,12 +4892,12 @@ strong {
 }
 
 .heading-15 {
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 50px;
 }
 
 .link-15-cop2 {
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
 }
 
 .section-18 {
@@ -4952,7 +4952,7 @@ strong {
   padding-bottom: 0;
   padding-left: 5px;
   padding-right: 5px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   text-decoration: none;
 }
 
@@ -5030,7 +5030,7 @@ strong {
   padding-bottom: 0;
   padding-left: 5px;
   padding-right: 5px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   text-decoration: none;
 }
 
@@ -5043,7 +5043,7 @@ strong {
   padding-bottom: 0;
   padding-left: 5px;
   padding-right: 5px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   text-decoration: none;
 }
 
@@ -5083,7 +5083,7 @@ strong {
   border-radius: 5px;
   width: 100%;
   height: 90px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 14px;
 }
 
@@ -5092,13 +5092,13 @@ strong {
   color: var(--white);
   text-align: center;
   margin-top: 0;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 18px;
   font-weight: 200;
   line-height: 2;
 }
 
-.rich-text-block-copy h1 {font-family:'Bona Nova',Georgia,serif;
+.rich-text-block-copy h1 {
   margin-top: 40px;
   font-size: 32px;
   font-weight: 400;
@@ -5129,7 +5129,7 @@ strong {
   padding-bottom: 0;
   padding-left: 5px;
   padding-right: 5px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   text-decoration: none;
 }
 
@@ -5140,7 +5140,7 @@ strong {
   margin-top: 0;
   margin-bottom: 60px;
   margin-right: 0%;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 30px;
   font-weight: 200;
   position: static;
@@ -5165,7 +5165,7 @@ strong {
 .heading-18 {
   color: var(--white);
   text-align: center;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 50px;
   font-weight: 300;
   position: absolute;
@@ -5190,7 +5190,7 @@ strong {
   direction: rtl;
   text-align: right;
   width: 40vw;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
 }
 
 .container-14-copy-copy {
@@ -5238,7 +5238,7 @@ strong {
   direction: rtl;
   text-align: center;
   margin-top: 40px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 17px;
   font-style: normal;
   font-weight: 700;
@@ -5265,14 +5265,14 @@ strong {
   color: #fff;
   background-color: silver;
   margin-top: 70px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 16px;
 }
 
 .paragraph-20 {
   color: #fff;
   margin-top: 15px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
 }
 
 .fullvid-copy {
@@ -5299,7 +5299,7 @@ strong {
   color: #fff;
   text-align: center;
   margin-top: 50px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 44px;
   font-weight: 500;
   position: absolute;
@@ -5314,7 +5314,7 @@ strong {
   margin: 50px auto 0;
   padding-left: 220px;
   padding-right: 220px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-weight: 200;
   line-height: 1.8;
   position: absolute;
@@ -5353,7 +5353,7 @@ strong {
   margin: 50px 0 0;
   padding-left: 25vw;
   padding-right: 25vw;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-weight: 300;
   line-height: 1.8;
   position: relative;
@@ -5388,7 +5388,7 @@ strong {
   margin-bottom: 0;
   padding-left: 25vw;
   padding-right: 25vw;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 17px;
   font-weight: 200;
   line-height: 1.8;
@@ -5428,7 +5428,7 @@ strong {
   text-align: center;
   margin-top: 0;
   margin-bottom: 0;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 50px;
   font-weight: 300;
   position: static;
@@ -5445,7 +5445,7 @@ strong {
   text-align: center;
   margin-left: 140px;
   margin-right: 140px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 17px;
   position: static;
   top: 32%;
@@ -5457,7 +5457,7 @@ strong {
   direction: rtl;
   color: #fff;
   text-align: center;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 18px;
   font-style: normal;
   text-decoration: underline;
@@ -5484,7 +5484,7 @@ strong {
   margin-top: 20px;
   margin-left: 20%;
   margin-right: 20%;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 16px;
   line-height: 2.5;
 }
@@ -5507,7 +5507,7 @@ strong {
   margin-top: 0;
   margin-left: 20%;
   margin-right: 20%;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   line-height: 2.5;
 }
 
@@ -5537,7 +5537,7 @@ strong {
   margin-bottom: 20px;
   padding-left: 20px;
   padding-right: 20px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 16px;
   text-decoration: none;
 }
@@ -5559,7 +5559,7 @@ strong {
   direction: rtl;
   color: #000;
   background-color: #fff;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 15px;
 }
 
@@ -5577,7 +5577,7 @@ strong {
 .rich-text-block-2 {
   direction: rtl;
   text-align: center;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-weight: 300;
 }
 
@@ -5597,7 +5597,7 @@ strong {
 .heading-22 {
   color: #fff;
   text-align: center;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 40px;
   font-weight: 600;
 }
@@ -5607,7 +5607,7 @@ strong {
   text-align: right;
   padding-left: 0;
   padding-right: 0;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 16px;
   text-decoration: none;
 }
@@ -5616,7 +5616,7 @@ strong {
   text-align: right;
   padding-left: 0;
   padding-right: 0;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 24px;
   font-weight: 600;
 }
@@ -5624,7 +5624,7 @@ strong {
 .paragraph-26-copy {
   direction: rtl;
   text-align: center;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 23px;
   text-decoration: none;
 }
@@ -5649,7 +5649,7 @@ strong {
   text-align: center;
   padding-left: 0;
   padding-right: 0;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 14px;
   text-decoration: none;
 }
@@ -5658,7 +5658,7 @@ strong {
   direction: rtl;
   color: #fff;
   text-align: center;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 19px;
   text-decoration: none;
 }
@@ -5696,7 +5696,7 @@ strong {
   width: 150px;
   margin-top: 0;
   padding: 5px 10px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 16px;
 }
 
@@ -5768,7 +5768,7 @@ strong {
   margin-right: 0;
   padding-top: 2px;
   padding-bottom: 2px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 16px;
   font-weight: 300;
 }
@@ -5817,7 +5817,7 @@ strong {
 .paragraph-27 {
   direction: rtl;
   text-align: right;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 14px;
 }
 
@@ -5831,7 +5831,7 @@ strong {
   margin-bottom: 0;
   padding-top: 60px;
   padding-bottom: 60px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 28px;
   font-weight: 300;
   line-height: 1;
@@ -5845,7 +5845,7 @@ strong {
   text-align: right;
   width: auto;
   padding-top: 30px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 14px;
 }
 
@@ -5856,7 +5856,7 @@ strong {
 .paragraph-27-copy {
   direction: rtl;
   text-align: right;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 14px;
 }
 
@@ -5871,7 +5871,7 @@ strong {
 .paragraph-27-copy-copy {
   direction: rtl;
   text-align: right;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 14px;
 }
 
@@ -5927,7 +5927,7 @@ strong {
 .centered-heading {
   text-align: center;
   margin-bottom: 20px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 36px;
 }
 
@@ -5937,13 +5937,13 @@ strong {
   max-width: 530px;
   margin-left: auto;
   margin-right: auto;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 14px;
 }
 
 .heading-24 {
   text-align: center;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 15px;
   font-weight: 300;
 }
@@ -6012,7 +6012,7 @@ strong {
 .margin-bottom-24px-2 {
   color: #fff;
   margin-bottom: 0;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 16px;
   font-weight: 300;
   line-height: 2;
@@ -6030,7 +6030,7 @@ strong {
 
 .heading-25 {
   margin-top: 10px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 35px;
   font-weight: 300;
 }
@@ -6038,7 +6038,7 @@ strong {
 .paragraph-29 {
   direction: rtl;
   margin-top: 20px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 16px;
 }
 
@@ -6092,7 +6092,7 @@ strong {
 }
 
 .heading-26 {
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
 }
 
 .section-2045 {
@@ -6188,7 +6188,7 @@ strong {
   background-color: #0000004f;
   padding-left: 10px;
   padding-right: 10px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-weight: 300;
 }
 
@@ -6197,7 +6197,7 @@ strong {
   text-align: center;
   align-self: center;
   margin-top: 10px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 23px;
   font-weight: 300;
 }
@@ -6716,7 +6716,7 @@ strong {
   box-shadow: 0 4px 8px -2px #0000001a, 0 2px 4px -2px #0000000f;
 }
 
-.heading-style-h2 {font-family:'Bona Nova',Georgia,serif;font-family:'Bona Nova',Georgia,serif;
+.heading-style-h2 {
   font-size: 3rem;
   font-weight: 700;
   line-height: 1.2;
@@ -6806,7 +6806,7 @@ strong {
   display: flex;
 }
 
-.heading-style-h1 {font-family:'Bona Nova',Georgia,serif;font-family:'Bona Nova',Georgia,serif;
+.heading-style-h1 {
   font-size: 3.5rem;
   font-weight: 700;
   line-height: 1.2;
@@ -7554,7 +7554,7 @@ strong {
 .body {
   direction: rtl;
   text-align: right;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
 }
 
 .container-24 {
@@ -9463,7 +9463,7 @@ strong {
   margin-top: 10px;
   padding-left: 0;
   padding-right: 25px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 14px;
   line-height: 2;
   list-style-type: square;
@@ -9480,7 +9480,7 @@ strong {
   margin-bottom: 0;
   padding-top: 0;
   padding-bottom: 10px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 22px;
   font-weight: 300;
   line-height: 1;
@@ -9507,7 +9507,7 @@ strong {
   padding-top: 20px;
   padding-bottom: 20px;
   padding-right: 0;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 22px;
   font-weight: 300;
   line-height: 1;
@@ -9538,7 +9538,7 @@ strong {
   margin-bottom: 0;
   padding-top: 20px;
   padding-bottom: 40px;
-  font-family: 'Frank Ruhl Libre', Georgia, serif;
+  font-family: Heebo, sans-serif;
   font-size: 28px;
   font-weight: 800;
   line-height: 1;
@@ -9770,7 +9770,7 @@ strong {
 }
 
 @media screen and (max-width: 991px) {
-  h1 {font-family:'Bona Nova',Georgia,serif;
+  h1 {
     font-size: 60px;
   }
 
@@ -10276,7 +10276,7 @@ strong {
     padding: 7.5rem;
   }
 
-  .heading-style-h2 {font-family:'Bona Nova',Georgia,serif;font-family:'Bona Nova',Georgia,serif;
+  .heading-style-h2 {
     font-size: 2.75rem;
   }
 
@@ -10297,7 +10297,7 @@ strong {
     padding: 5rem;
   }
 
-  .heading-style-h1 {font-family:'Bona Nova',Georgia,serif;font-family:'Bona Nova',Georgia,serif;
+  .heading-style-h1 {
     font-size: 3.25rem;
   }
 
@@ -10943,11 +10943,11 @@ strong {
     font-size: 16px;
   }
 
-  h1 {font-family:'Bona Nova',Georgia,serif;
+  h1 {
     font-size: 50px;
   }
 
-  h2 {font-family:'Bona Nova',Georgia,serif;
+  h2 {
     font-size: 36px;
   }
 
@@ -11386,7 +11386,7 @@ strong {
     padding: 5rem;
   }
 
-  .heading-style-h2 {font-family:'Bona Nova',Georgia,serif;font-family:'Bona Nova',Georgia,serif;
+  .heading-style-h2 {
     font-size: 2.25rem;
   }
 
@@ -11411,7 +11411,7 @@ strong {
     font-size: 1.125rem;
   }
 
-  .heading-style-h1 {font-family:'Bona Nova',Georgia,serif;font-family:'Bona Nova',Georgia,serif;
+  .heading-style-h1 {
     font-size: 2.5rem;
   }
 
@@ -11718,11 +11718,11 @@ strong {
 }
 
 @media screen and (max-width: 479px) {
-  h1 {font-family:'Bona Nova',Georgia,serif;
+  h1 {
     font-size: 36px;
   }
 
-  h2 {font-family:'Bona Nova',Georgia,serif;
+  h2 {
     font-size: 26px;
   }
 
@@ -11824,14 +11824,14 @@ strong {
   .hero-header {
     padding-left: 10%;
     padding-right: 10%;
-    font-family: 'Bona Nova', Georgia, serif;
+    font-family: Bellefair, sans-serif;
   }
 
   .footer-txt {
     text-align: center;
     margin-bottom: 0;
     margin-right: 0;
-    font-family: 'Frank Ruhl Libre', Georgia, serif;
+    font-family: Heebo, sans-serif;
     font-size: 12px;
   }
 
@@ -11877,7 +11877,7 @@ strong {
     margin-top: 10px;
     margin-left: 5%;
     padding-top: 15px;
-    font-family: 'Bona Nova', Georgia, serif;
+    font-family: Bellefair, sans-serif;
     transform: none;
   }
 
@@ -12037,7 +12037,7 @@ strong {
     letter-spacing: 2px;
     margin-top: 0;
     margin-bottom: 0;
-    font-family: 'Bona Nova', Georgia, serif;
+    font-family: Bellefair, sans-serif;
     font-size: 26px;
     font-weight: 400;
     line-height: 1.2;
@@ -12128,7 +12128,7 @@ strong {
 
   .form-2 {
     width: auto;
-    font-family: 'Bona Nova', Georgia, serif;
+    font-family: Bellefair, sans-serif;
   }
 
   .paragraph-2 {
@@ -12366,7 +12366,7 @@ strong {
 
   .portfolio-menu-copy {
     margin-top: 10px;
-    font-family: 'Frank Ruhl Libre', Georgia, serif;
+    font-family: Heebo, sans-serif;
     font-size: 27px;
   }
 
@@ -12422,7 +12422,7 @@ strong {
   .heading-5-copy {
     text-align: center;
     margin-bottom: 19px;
-    font-family: 'Bona Nova', Georgia, serif;
+    font-family: Bellefair, sans-serif;
     font-size: 34px;
     line-height: 1.2;
   }
@@ -12438,7 +12438,7 @@ strong {
   .heading-5-copy-copy {
     text-align: center;
     margin-bottom: 0;
-    font-family: 'Bona Nova', Georgia, serif;
+    font-family: Bellefair, sans-serif;
     font-size: 34px;
     line-height: 1.2;
   }
@@ -12719,7 +12719,7 @@ strong {
 
   .link-5 {
     text-align: center;
-    font-family: 'Frank Ruhl Libre', Georgia, serif;
+    font-family: Heebo, sans-serif;
     font-size: 18px;
     font-weight: 500;
   }
@@ -12764,7 +12764,7 @@ strong {
     margin-top: 20px;
     margin-left: 5%;
     padding-top: 0;
-    font-family: 'Bona Nova', Georgia, serif;
+    font-family: Bellefair, sans-serif;
     transform: none;
   }
 
@@ -13116,7 +13116,7 @@ strong {
     text-align: center;
     margin-top: 17px;
     padding-left: 0;
-    font-family: 'Frank Ruhl Libre', Georgia, serif;
+    font-family: Heebo, sans-serif;
     font-size: 17px;
     font-weight: 200;
     text-decoration: none;
@@ -13269,12 +13269,12 @@ strong {
 
   .rich-text-block-copy {
     margin-top: 0;
-    font-family: 'Frank Ruhl Libre', Georgia, serif;
+    font-family: Heebo, sans-serif;
     font-size: 14px;
     line-height: 2;
   }
 
-  .rich-text-block-copy h1 {font-family:'Bona Nova',Georgia,serif;
+  .rich-text-block-copy h1 {
     font-size: 28px;
   }
 
